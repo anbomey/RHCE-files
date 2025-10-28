@@ -1,0 +1,22 @@
+---
+users:
+  - name: bob
+    job: developer
+
+  - name: sally
+    job: manager
+
+  - name: fred
+    job: developer
+
+  - name: AliceJohnson  
+    job: manager  
+
+  - name: BobSmith  
+    job: developer
+
+  - name: CarolWilliams  
+    job: manager 
+
+  - name: DavidBrown  
+    job: developer
